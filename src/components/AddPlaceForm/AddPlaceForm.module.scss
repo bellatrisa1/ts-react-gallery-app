@@ -1,0 +1,18 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  input, select, button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  button {
+    background-color: #4682b4;
+    color: white;
+    cursor: pointer;
+    border: none;
+    &:hover {
+      background-color: #5a8fb0;
+    }
+  }
+}

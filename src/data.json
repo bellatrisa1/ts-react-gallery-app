@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "South Korea",
+    "category": "Countries",
+    "imageUrl": "../img/kor1.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Japan",
+    "category": "Countries",
+    "imageUrl": "../img/jap2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Thailand",
+    "category": "Countries",
+    "imageUrl": "../img/tai1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Food",
+    "category": "Food",
+    "imageUrl": "../img/frf1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Food",
+    "category": "Food",
+    "imageUrl": "../img/itf1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Food",
+    "category": "Food",
+    "imageUrl": "../img/krf1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Mountains",
+    "category": "Mountains",
+    "imageUrl": "../img/mau1.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Thailand",
+    "category": "Mountains",
+    "imageUrl": "../img/mau2.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Mountains",
+    "category": "Mountains",
+    "imageUrl": "../img/mau3.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Mountains",
+    "category": "Mountains",
+    "imageUrl": "../img/mau4.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Sea",
+    "category": "Sea",
+    "imageUrl": "../img/tai1.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Sea",
+    "category": "Sea",
+    "imageUrl": "../img/sea1.webp"
+  },
+  {
+    "id": 13,
+    "name": "Sea",
+    "category": "Sea",
+    "imageUrl": "../img/sea2.webp"
+  },
+  {
+    "id": 14,
+    "name": "Sea",
+    "category": "Sea",
+    "imageUrl": "../img/sea3.webp"
+  },
+  {
+    "id": 15,
+    "name": "Sea",
+    "category": "Sea",
+    "imageUrl": "../img/sea4.jpeg"
+  },
+  {
+    "id": 16,
+    "name": "Sea",
+    "category": "Sea",
+    "imageUrl": "../img/sea5.jpg"
+  }
+]
