@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+TypeScript React Gallery Travel App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Описание.
+Веб-приложение, которое позволяет пользователям просматривать и добавлять свои любимые места путешествий. Приложение представляет собой простую галерею, где каждое место отображается с изображением и названием. В проекте используется React с TypeScript для реализации функционала и стилизация с помощью SCSS. Пользователи могут фильтровать места по категориям и добавлять новые записи через форму.
 
-## Available Scripts
+2. Функции приложения.
+  - Просмотр галереи мест.
+  - Фильтрация мест по категориям (например, "еда", "море", "страны").
+  - Добавление новых мест через форму.
+  - Стильный и минималистичный интерфейс.
 
-In the project directory, you can run:
+3. Технологии.
+  - React (JavaScript библиотека для построения пользовательских интерфейсов)
+  - TypeScript (статическая типизация для JavaScript)
+  - SCSS (CSS препроцессор для удобной стилизации)
+  - React Router (для навигации, если в проект будут добавляться новые страницы)
+  - JSON (данные о местах хранятся в файле data.json)
 
-### `npm start`
+4. Как запустить проект?
+  - Клонируйте репозиторий: git clone https://github.com/bellatrisa1/ts-react-gallery-app.git
+  - Установите зависимости: npm install
+  - Запустите проект: npm start
+  - Откройте приложение в браузере по адресу http://localhost:3000
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+5. Планируемые улучшения
+  - Добавление возможности редактировать и удалять места.
+  - Реализация поиска по названию мест.
+  - Интеграция с API для динамической загрузки данных.
+  - Добавление анимаций при добавлении, удалении и фильтрации мест.
+  - Мобильная адаптивность для улучшенного пользовательского опыта.
+  - Добавление страниц и маршрутов с использованием React Router.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+6. Примечания
+  - В текущей версии данные о местах хранятся в файле data.json. В будущем планируется интеграция с сервером или API для динамической загрузки данных.
+  - Этот проект создавался с использованием React и TypeScript для закрепления знаний и навыков в этих технологиях.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+7. Скриншоты.
+- ![Снимок экрана 2024-12-20 в 20 02 31](https://github.com/user-attachments/assets/b3987736-d9cf-44e2-b0fe-57ee25283690)
